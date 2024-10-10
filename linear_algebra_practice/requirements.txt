@@ -1,0 +1,11 @@
+
+---
+
+### 2. **`requirements.txt`**
+
+```text
+numpy
+scipy
+matplotlib
+sympy
+jupyter

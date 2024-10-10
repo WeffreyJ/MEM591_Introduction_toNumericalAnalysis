@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# MATLAB
+*.mex*
+*.mat
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Logs and other unnecessary files
+*.log
+*.tmp
+*.swp
